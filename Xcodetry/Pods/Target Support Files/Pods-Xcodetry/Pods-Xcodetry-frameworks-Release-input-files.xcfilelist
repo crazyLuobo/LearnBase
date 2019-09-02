@@ -1,0 +1,21 @@
+${PODS_ROOT}/Target Support Files/Pods-Xcodetry/Pods-Xcodetry-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework
+${BUILT_PRODUCTS_DIR}/JSBadgeView/JSBadgeView.framework
+${BUILT_PRODUCTS_DIR}/LazyScroll/LazyScroll.framework
+${BUILT_PRODUCTS_DIR}/M80TableViewComponent/M80TableViewComponent.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/PNChart/PNChart.framework
+${BUILT_PRODUCTS_DIR}/RSKImageCropper/RSKImageCropper.framework
+${BUILT_PRODUCTS_DIR}/SQLCipher/SQLCipher.framework
+${BUILT_PRODUCTS_DIR}/SXAlertView/SXAlertView.framework
+${BUILT_PRODUCTS_DIR}/TLAnimationTabBar/TLAnimationTabBar.framework
+${BUILT_PRODUCTS_DIR}/TMUtils/TMUtils.framework
+${BUILT_PRODUCTS_DIR}/TTTAttributedLabel/TTTAttributedLabel.framework
+${BUILT_PRODUCTS_DIR}/TZImagePickerController/TZImagePickerController.framework
+${BUILT_PRODUCTS_DIR}/UICountingLabel/UICountingLabel.framework
+${BUILT_PRODUCTS_DIR}/YBHandyList/YBHandyList.framework
+${BUILT_PRODUCTS_DIR}/YLGIFImage/YLGIFImage.framework
+${BUILT_PRODUCTS_DIR}/ZCRMailbox/ZCRMailbox.framework
+${BUILT_PRODUCTS_DIR}/pop/pop.framework

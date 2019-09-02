@@ -1,0 +1,6 @@
+framework module ZCRMailbox {
+  umbrella header "ZCRMailbox-umbrella.h"
+
+  export *
+  module * { export * }
+}

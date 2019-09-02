@@ -1,0 +1,115 @@
+PODS:
+  - FMDB/SQLCipher (2.7.5):
+    - SQLCipher
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - JSBadgeView (2.0.0)
+  - LazyScroll (1.0.1):
+    - TMUtils (~> 1.0.1)
+  - M80TableViewComponent (0.1.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - pop (1.0.12)
+  - RSKImageCropper (2.2.3)
+  - SQLCipher (4.2.0):
+    - SQLCipher/standard (= 4.2.0)
+  - SQLCipher/common (4.2.0)
+  - SQLCipher/standard (4.2.0):
+    - SQLCipher/common
+  - SXAlertView (2.2)
+  - TLAnimationTabBar (1.0.2):
+    - TLAnimationTabBar/Config (= 1.0.2)
+  - TLAnimationTabBar/Config (1.0.2)
+  - TMUtils (1.0.1)
+  - TTTAttributedLabel (2.0.0)
+  - TZImagePickerController (3.2.1)
+  - UICountingLabel (1.2.0)
+  - UMCCommon (2.1.1)
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - UMCSecurityPlugins (1.0.6)
+  - YBHandyList (1.0.1)
+  - YLGIFImage (0.11)
+  - ZCRMailbox (0.1.3)
+
+DEPENDENCIES:
+  - FMDB/SQLCipher
+  - IGListKit
+  - JSBadgeView
+  - LazyScroll
+  - M80TableViewComponent
+  - Masonry
+  - MJRefresh
+  - PNChart
+  - pop
+  - RSKImageCropper
+  - SXAlertView
+  - TLAnimationTabBar
+  - TTTAttributedLabel
+  - TZImagePickerController
+  - UMCCommon
+  - UMCPush
+  - UMCSecurityPlugins
+  - YBHandyList
+  - YLGIFImage
+  - ZCRMailbox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - IGListKit
+    - JSBadgeView
+    - LazyScroll
+    - M80TableViewComponent
+    - Masonry
+    - MJRefresh
+    - PNChart
+    - pop
+    - RSKImageCropper
+    - SQLCipher
+    - SXAlertView
+    - TLAnimationTabBar
+    - TMUtils
+    - TTTAttributedLabel
+    - TZImagePickerController
+    - UICountingLabel
+    - UMCCommon
+    - UMCPush
+    - UMCSecurityPlugins
+    - YBHandyList
+    - YLGIFImage
+    - ZCRMailbox
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  JSBadgeView: 3f5691b7d1bfacfb0237d0eb3b8b1f9a10ecb3f7
+  LazyScroll: 23f4550711452ad4306a30fc75106a7a5556a882
+  M80TableViewComponent: 5348f3b165ec98c827cad9d02884af3b78a567fc
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  RSKImageCropper: a446db0e8444a036b34f3c43db01b2373baa4b2a
+  SQLCipher: 0187a2180ac288ea686b670b7141da62cd013b16
+  SXAlertView: de20ffbd3c63df4bece9bc344d209682d1919137
+  TLAnimationTabBar: 1660320196ddb61f3294def2c5a52728ab9ec323
+  TMUtils: 8af8e4695b6e4086d0545ecd7cd025556515ab42
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  TZImagePickerController: bf4c57b98d8707fce41ea6be872414a71c7a8c9d
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  YBHandyList: f2ac2b1fc6ac3e2bb59d9f1f92b396a746ba5fef
+  YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
+  ZCRMailbox: b6851c4288e74fe869fc2eb1775b0504e437d879
+
+PODFILE CHECKSUM: 687dfedfea160f860bb9dc1e1735c9cdd834bd51
+
+COCOAPODS: 1.7.5

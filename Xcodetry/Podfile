@@ -1,0 +1,45 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Xcodetry' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Xcodetry
+  pod 'Masonry'
+#  pod 'AFNetworking'
+  pod 'UMCCommon'
+  pod 'UMCPush'
+  pod 'UMCSecurityPlugins'
+  pod 'MJRefresh'
+  pod 'YBHandyList'
+  pod 'IGListKit'
+  pod 'M80TableViewComponent'
+  pod 'FMDB/SQLCipher'
+  pod 'ZCRMailbox'
+  pod 'TLAnimationTabBar'
+  pod 'SXAlertView'
+  pod 'YLGIFImage'
+  pod 'TZImagePickerController'
+  pod 'pop'
+  pod 'RSKImageCropper'
+  pod 'TTTAttributedLabel'
+  pod 'PNChart'
+#  pod 'DCAnimationKit'
+  pod 'JSBadgeView'
+  pod 'LazyScroll'
+
+#  pod 'lottie-ios'
+
+
+  target 'XcodetryTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'XcodetryUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

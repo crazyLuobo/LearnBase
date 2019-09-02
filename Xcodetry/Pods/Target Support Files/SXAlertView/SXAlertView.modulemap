@@ -1,0 +1,6 @@
+framework module SXAlertView {
+  umbrella header "SXAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

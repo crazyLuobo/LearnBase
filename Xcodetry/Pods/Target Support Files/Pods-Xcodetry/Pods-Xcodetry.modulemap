@@ -1,0 +1,6 @@
+framework module Pods_Xcodetry {
+  umbrella header "Pods-Xcodetry-umbrella.h"
+
+  export *
+  module * { export * }
+}
